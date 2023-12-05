@@ -3,7 +3,7 @@ Trabajop Práctico 2023
 
 ##Índice
 
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+*[Título e imagen de portada](IMG_0281.jpeg)
 
 *[Insignias](#insignias)
 
