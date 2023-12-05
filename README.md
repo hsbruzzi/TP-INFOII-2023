@@ -1,15 +1,15 @@
-# TP-INFOII-2023
+💻 TP-INFOII-2023
 Trabajop Práctico 2023
 
-##Índice
+:point_right: Índice
 
-*[Título e imagen de portada](https://github.com/hsbruzzi/NewRepo)
+*[Control de Llenado de Tanque](#)
 
-*[Insignias](#insignias) Control de llenado de tanque de agua R2.pdf
+*[Insignias](#insignias)
 
 *[Índice](#índice)
 
-*[Descripción del proyecto](Control de llenado de tanque de agua R2.pdf)
+*[Descripción del proyecto](#descripción-del-proyecto)
 
 *[Estado del proyecto](#Estado-del-proyecto)
 
@@ -23,6 +23,6 @@ Trabajop Práctico 2023
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-* [Licencia](#licencia)
+*[Licencia](#licencia)
 
 *[Conclusión](#conclusión)
