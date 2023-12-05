@@ -9,7 +9,7 @@ Trabajop Práctico 2023
 
 *[Índice](#índice)
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+*[Descripción del proyecto](Control de llenado de tanque de agua R2.pdf)
 
 *[Estado del proyecto](#Estado-del-proyecto)
 
