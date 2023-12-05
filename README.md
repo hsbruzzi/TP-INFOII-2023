@@ -9,5 +9,5 @@ Trabajop Práctico 2023
 
 *[Descripción del proyecto](#descripción-del-proyecto)
 
-*[Simulacion en PROTEUS](#tecnologías-utilizadas)
+*[Simulacion en PROTEUS](https://github.com/hsbruzzi/SRC-TP-FSM)
 
