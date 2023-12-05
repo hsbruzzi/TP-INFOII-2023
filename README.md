@@ -3,7 +3,7 @@ Trabajop Práctico 2023
 
 ##Índice
 
-*[Título e imagen de portada](IMG_0281.jpeg)
+*[Título e imagen de portada](https://github.com/hsbruzzi/NewRepo)
 
 *[Insignias](#insignias)
 
