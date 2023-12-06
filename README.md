@@ -7,7 +7,7 @@ Trabajop Práctico 2023
 
 *[FSM](https://github.com/hsbruzzi/TP-INFOII-2023/blob/main/Captura.JPG?raw=true)
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+*[Descripción del proyecto](https://github.com/hsbruzzi/TP-INFOII-2023/blob/c6c85f9eebfa84c804af86be647b54f4ad625c0a/Captura1.JPG)
 
 *[Simulacion en PROTEUS](https://github.com/hsbruzzi/SRC-TP-FSM)
 
