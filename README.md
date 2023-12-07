@@ -1,5 +1,5 @@
 💻 TP-INFOII-2023
-Trabajop Práctico 2023
+Trabajo Práctico 2023
 
 :point_right: Índice
 
